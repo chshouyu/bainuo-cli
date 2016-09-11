@@ -1,7 +1,8 @@
 {
   "name": "bainuo-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
+  "repository": "chshouyu/bainuo-cli",
   "bin": {
     "bainuo": "bin/index.js"
   },
